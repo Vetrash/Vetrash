@@ -16,49 +16,21 @@
 @sample.svg
 :space_invader: <a href=https://vetrash.github.io/>Большинство развернутых работ можно посмотреть тут</a>
 ## Навыки
-<p align="left" style="pointer-events: none" pointer-events="none">
-	<a href=# pointer-events="none">
-		<img style="pointer-events: none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="img/redux-saga.svg" alt="saga" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="img/github.svg" alt="github" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="img/unity.svg" alt="unity" width="40" height="40"/>
-	</a>
-	<a href=#>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40"/> 
-	</a>
+<p align="left">
+	<img style="pointer-events: none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+	<img src="img/redux-saga.svg" alt="saga" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+	<img src="img/github.svg" alt="github" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+	<img src="img/unity.svg" alt="unity" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40"/> 
 </p>
 
 ## Статистика
