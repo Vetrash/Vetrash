@@ -17,7 +17,7 @@
 :space_invader: <a href=https://vetrash.github.io/>Большинство развернутых работ можно посмотреть тут</a>
 ## Навыки
 <p align="left" style="pointer-events: none" pointer-events="none">
-	<a href=#>
+	<a href=# pointer-events: none>
 		<img style="pointer-events: none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 	</a>
 	<a href=#>
