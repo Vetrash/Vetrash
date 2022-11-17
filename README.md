@@ -13,8 +13,6 @@
 
 :email: <a href="vetrash47@gmail.com">vetrash47@gmail.com</a>
 
-@sample.svg
-:space_invader: <a href=https://vetrash.github.io/>Большинство развернутых работ можно посмотреть тут</a>
 ## Навыки
 <p align="left">
 	<img style="pointer-events: none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
